@@ -1,2 +1,1 @@
-# Web-Calc
-Calculadora con java maven
+# Web Calculator
